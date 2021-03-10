@@ -1,0 +1,2 @@
+config:
+  info: "master bracnch,spring-cloud-config/config-prod.yml version=1"
